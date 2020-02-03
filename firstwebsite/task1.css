@@ -1,0 +1,175 @@
+
+
+body{
+  /* background-color:#96d1c7; */
+  margin: 0;
+  text-align: center;
+  font-family:sans-serif;
+  background-color: #fbe3b9;
+
+}
+h1{
+  margin: 0;
+font-family: 'Permanent Marker', cursive;
+font-size: 75px;
+line-height: 2;
+  /* color: #66BFBF; */
+}
+h2{
+  /* font-family: 'Caveat', cursive; */
+  font-size: 2.5rem;
+  /* color: #66BFBF; */
+  font-weight: normal;
+}
+h3{
+  color:#d1274b;
+}
+a{
+  color:#d1274b;
+}
+
+/* div{
+  background-color: #96d1c7;
+} */
+
+.enthu{
+  color:red;
+}
+/* .middle-container
+{
+  background-color:green;
+  height: 200px;
+  width: 200px;
+  margin-left: 200px;
+  border: solid;
+  border-width: 20px;
+}
+.bottom-container
+{
+  background-color:blue;
+  height: 200px;
+  width: 200px;
+  margin-left: 440px;
+  border: solid;
+} */
+.top-container
+{
+  /* background-color: #f1d4d4; */
+  height: 200px;
+  width: 1000px;
+  margin: 200px auto 0 auto;
+  /* position: absolute;
+  top:102px; */
+
+}
+.mountain1
+{
+  position:absolute;
+  right: 175px;
+  height: 100px;
+  top: 25px;
+
+}
+.mountain2
+{
+  position:absolute;
+  left: 25px;
+  height: 100px;
+  top:250px;
+}
+.footer-link
+{
+  color: #11999E;
+}
+.skill-row
+{
+  display: inline-block;
+  width: 50%;
+  /* text-align: center; */
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+    /* background-color: white; */
+
+}
+/* .skills{
+  background-color: white;
+} */
+.img1
+{
+  width: 25%;
+  float: left;
+  margin: 50px;
+}
+.img2
+{
+  width: 25%;
+  float: right;
+  margin: 50px;
+}
+.pehla
+{
+  clear:left;
+  background-color:
+}
+.doosra
+{
+  clear:right;
+}
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ededed 5%, #dfdfdf 100%);
+	background-color:#ededed;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:block;
+  width: 150px;
+  margin: auto;
+  height: 50px;
+
+	cursor:pointer;
+	color:#777777;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #dfdfdf 5%, #ededed 100%);
+	background-color:#dfdfdf;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.profile
+{
+  background-color: #fab696;;
+}
+.profileimg{
+  width:150px;
+  height:150px;
+
+}
+hr{
+  width:0px;
+}
+.contact-me
+{
+  background-color: #0c9463;
+  position: relative;
+  top: 100px;
+}
+.bottom-container{
+  background-color:#0c9463;
+  margin-top: 0;
+  margin-bottom: 0;
+  height: 100px;
+}
+ .middle-container
+{
+  background-color:#fab696;
+} */
